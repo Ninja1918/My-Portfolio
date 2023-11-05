@@ -1,47 +1,16 @@
-<h2 align="center">
-  Portfolio Website - v2.0<br/>
-</h2>
+## Portfolio Website
 
-<br/>
+This is a personal portfolio website built using React.js, Node.js, Express.js, CSS3, VsCode, and Vercel. It features a multi-page layout, styled with React-Bootstrap and CSS with easy-to-customize colors, and is fully responsive.
 
-## TL;DR
+The website showcases some of the developer's GitHub projects, as well as their resume and technical skills. It is a great way for the developer to present themselves to potential employers and clients.
 
+### Usage Instructions
 
-## Built With
+1. Clone down the repository.
+2. Install the dependencies: `npm install`.
+3. Run the app in development mode: `npm start`.
+4. Open http://localhost:3000 to view the website in the browser.
 
-My personal portfolio <a href="https://soumyajit.vercel.app/" target="_blank">Shourya Rohilla</a> which features some of my github projects as well as my resume and technical skills.<br/>
+To edit your information, navigate to `/src/components/`.
 
-This project was built using these technologies.
-
-- React.js
-- Node.js
-- CSS3
-- VsCode
-- Vercel
-
-## Features
-
-**📖 Multi-Page Layout**
-
-**🎨 Styled with React-Bootstrap and Css with easy to customize colors**
-
-**📱 Fully Responsive**
-
-## Getting Started
-
-Clone down this repository. You will need `node.js` and `git` installed globally on your machine.
-
-## 🛠 Installation and Setup Instructions
-
-1. Installation: `npm install`
-
-2. In the project directory, you can run: `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-The page will reload if you make edits.
-
-## Usage Instructions
-
-Open the project folder and Navigate to `/src/components/`. <br/>
-You will find all the components used and you can edit your information accordingly.
+### Show your support
